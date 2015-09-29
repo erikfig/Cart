@@ -1,4 +1,6 @@
 {
+	"name": "erikfig/cart",
+    "description": "Carrinho Webinar PHP",
     "require": {
         "phpunit/phpunit": "^4.8",
         "squizlabs/php_codesniffer": "^2.3"
